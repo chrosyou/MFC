@@ -15,7 +15,7 @@ class CObject;
 
 struct CRuntimeClass 
 {
-	//Attributes
+	//Attributes12345
 	LPCSTR	m_lpszClassName;
 	int		m_nObjectSize;
 	UINT	m_wSchema;
